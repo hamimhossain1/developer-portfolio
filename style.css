@@ -9,7 +9,10 @@ font-size: 50px;
 .green-color{
     color: green;
 }
-section{
+.orange-color{
+    color: orange;
+}
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
